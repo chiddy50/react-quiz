@@ -1,0 +1,62 @@
+.admin__sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #29348e;
+  overflow-x: hidden;
+  padding-top: 80px;
+}
+
+.admin__sidenav a {
+  padding: 10px 8px 10px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  color: #fff;
+  display: block;
+  font-weight: 700;
+}
+
+.admin__sidenav a:not(:last-child){
+  margin-bottom: 30px;
+}
+
+.admin__sidenav .active__tab {
+  /* background: #618cfb; */
+  background: #2c2f2e;
+  color: #fff;
+  border-radius: 16px;
+}
+
+.admin__sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.admin__main {
+  margin-left: 200px; /* Same as the width of the admin__sidenav */
+  font-size: 18px; /* Increased text to enable scrolling */
+  /* padding: 0px 10px; */
+  background-color: #fff;
+  color: #333;
+  min-height: 900px;
+}
+
+/* .admin__content {
+  margin-top: 70px;
+} */
+
+.admin__nav {
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+@media screen and (max-height: 450px) {
+  .admin__sidenav {padding-top: 15px;}
+  .admin__sidenav a {font-size: 18px;}
+}

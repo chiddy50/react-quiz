@@ -1,0 +1,134 @@
+[
+    {
+        "difficulty": "medium",
+        "cartegory": "science",
+        "question": "What is the hottest planet?",
+        "correct_answer": "Mercury",
+        "incorrect_answer": [
+            "Pluto",
+            "Venus",
+            "Saturn",
+            "Mercury"
+        ]
+    },
+    {
+        "difficulty": "easy",
+        "cartegory": "animals",
+        "question": "Which of the following birds is carnivorous?",
+        "correct_answer": "Owl",
+        "incorrect_answer": [
+            "Pelican",
+            "Owl",
+            "Pigeon",
+            "Turkey"
+        ]
+    },
+    {
+        "difficulty": "easy",
+        "cartegory": "programming",
+        "question": "What is JSON?",
+        "correct_answer": "Javascript Object Notation",
+        "incorrect_answer": [
+            "Java Object Notation",
+            "Javascript Object Name",
+            "Java Object Name",
+            "Javascript Object Notation"
+        ]
+    },
+    {
+        "difficulty": "medium",
+        "cartegory": "programming",
+        "question": "Which of the following is a Javascript framework?",
+        "correct_answer": "Angular Js",
+        "incorrect_answer": [
+            "Node Js",
+            "Jquery",
+            "Laravel",
+            "Angular Js"
+        ]
+    },
+    {
+        "difficulty": "easy",
+        "cartegory": "programming",
+        "question": "Which of the following is a PHP framework?",
+        "correct_answer": "Symfony",
+        "incorrect_answer": [
+            "React",
+            "Symfony",
+            "Django",
+            "Ruby"
+        ]
+    },
+    {
+        "difficulty": "easy",
+        "cartegory": "sports",
+        "question": "Which european team has the highest amount of UEFA champions league trophies?",
+        "correct_answer": "Real Madrid",
+        "incorrect_answer": [
+            "FC Barcelona",
+            "Arsenal",
+            "Real Madrid",
+            "Manchester United"
+        ]
+    },
+    {
+        "difficulty": "medium",
+        "cartegory": "sports",
+        "question": "What was the final score between Barcelona and Sampdoria in the 1992 UEFA champions league final?",
+        "correct_answer": "1-0",
+        "incorrect_answer": [
+            "2-0",
+            "3-1",
+            "1-0",
+            "2-1"
+        ]
+    },
+    {
+        "difficulty": "hard",
+        "cartegory": "programming",
+        "question": "Which of the following is a CSS framework?",
+        "correct_answer": "Bootstrap",
+        "incorrect_answer": [
+            "Slim",
+            "Magento",
+            "Bootstrap",
+            "Amber"
+        ]
+    },
+    {
+        "difficulty": "hard",
+        "cartegory": "geography",
+        "question": "Which of the following is a West African country?",
+        "correct_answer": "Togo",
+        "incorrect_answer": [
+            "Uganda",
+            "Togo",
+            "Somalia",
+            "Malawi"
+        ]
+    },
+    {
+        "difficulty": "easy",
+        "cartegory": "programming",
+        "question": "Which of the following is a server-side language?",
+        "correct_answer": "Python",
+        "incorrect_answer": [
+            "Python",
+            "HTML",
+            "Ajax",
+            "C++"
+        ]
+    },
+    {
+        "difficulty": "medium",
+        "cartegory": "animals",
+        "question": "What is the fastest land animal?",
+        "correct_answer": "Cheetah",
+        "incorrect_answer": [
+            "Lion",
+            "Hyena",
+            "Cheetah",
+            "Rabbit"
+        ]
+    }
+]

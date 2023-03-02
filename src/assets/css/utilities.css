@@ -1,0 +1,24 @@
+.text__shadow {
+    text-shadow: 2px 2px 2px #444;
+}
+
+.text__shadow2 {
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.color__gold {
+  color: #f39f10;
+}
+
+.bg__gold {
+  background: #f39f10;
+}
+
+.bangers__font {
+  font-family: 'Bangers', cursive;
+}
+
+.transparent__btn {
+  background: transparent;
+  border: 1.5px solid #fff;
+}
